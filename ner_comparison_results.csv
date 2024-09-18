@@ -1,0 +1,3 @@
+Entity Type,Total Entities Detected (SciSpacy),Total Entities Detected (BioBERT),Unique to SciSpacy,Unique to BioBERT,Common Entities,Most Common (SciSpacy),Most Common (BioBERT)
+Disease,12398,0,12398,0,0,"[('pain', 3646), ('bleeding', 1571), ('chest pain', 1528), ('anemia', 1513), ('pneumonia', 1337), ('edema', 1231), ('CHF', 1070), ('hypertension', 1041), ('fever', 989), ('infection', 975)]",[]
+Drug,5158,0,5158,0,0,"[('Tablet(s', 1438), ('iron', 1173), ('PCP', 1007), ('Aspirin', 916), ('creatinine', 897), ('Q6H', 887), ('p.o', 876), ('Lasix', 831), ('lasix', 823), ('heparin', 798)]",[]
